@@ -1,0 +1,1 @@
+The documents folder contains all the data I used to generate the CSV file. The Misc documents contains all the files that wasn't standardized enough to be parsed. They include letters, pictures and other types of documents.
